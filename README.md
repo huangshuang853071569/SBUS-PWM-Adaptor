@@ -1,5 +1,6 @@
 # SBUS-PWM-Adaptor
 这是一个SBUS/PWM信号适配器，用于futaba SBUS协议信号和标准PWM信号（20ms）之间的互相转换。
+
 作者：黄爽
 日期：2020.5.14
 
